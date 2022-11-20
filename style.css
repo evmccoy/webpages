@@ -1,0 +1,24 @@
+/*
+ *Name: Ethan McCoy
+ *UnityID: evmccoy
+ *Date: 11/19/22
+ *Assignment: Independent Assignment 5
+ *Description: Style for IA 5
+ */
+ 
+body {
+    Background-color:#5442F5 ;
+
+}
+
+.table-border {
+    border: 2px solid #00FF00 ;
+
+}
+
+#photo-resize {
+    max-width: 200px ;
+    max-height: 250px ;
+    border: 2px solid #00FF00 ;
+
+}
